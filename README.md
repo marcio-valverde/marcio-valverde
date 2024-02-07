@@ -64,5 +64,7 @@ You can read my articles on <br>
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+  <img align="center" src="https://github.com/marcio-valverde/assets/blob/main/Einstein.jpg" alt="Imagem">
+ 
+*The definition of insanity is doing the same thing over and over and expecting different results.*<br>
+Alber Einstein
