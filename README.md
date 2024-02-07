@@ -9,8 +9,7 @@ I'm a Software Engineer and Machine Learning Engineer 💻
 Currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
 I am passionate about the entire process of developing advanced algorithms for Natural Language Processing. I enjoy the challenge of uncovering insights hidden within social network posts and dedicating time to understand the nuances of language. Exploring how individuals express thoughts related to suicide ideation and depression fascinates me, and I find fulfillment in the prospect of contributing to mental health research through AI technology.
 
-I'm an enthusiast of electronic music, and I have my favorite playlists in:<br>
-<a href="https://soundcloud.com/marcio-valverde" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
+
 
 ### My Studies/Research
 
@@ -25,6 +24,10 @@ You can read my articles on <br>
   <a href = "mailto:marcio.valverde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-valverde-907323144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+I'm an enthusiast of electronic music, and I have my favorite playlists in:<a href="https://soundcloud.com/marcio-valverde" target="_blank"> Soundclound</a>
+
+
 
 ---
 
