@@ -17,6 +17,8 @@ I am passionate about the entire process of developing advanced algorithms for N
 
 🌱 I’m currently learning: I am currently learning and honing my skills in Natural Language Processing techniques, Topic Modeling, and advanced machine learning methods to improve the accuracy and effectiveness of my research.
 
+<img align="center" src="https://github.com/marcio-valverde/assets/blob/main/AI.jpg" alt="Imagem">
+  
 You can read my articles on <br>
 <a href="https://medium.com/@marciovalverde" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
