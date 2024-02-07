@@ -67,7 +67,7 @@ I'm an enthusiast of electronic music, and I have my favorite playlists in:<a hr
 
 ![snake gif](https://github.com/marcio-valverde/marcio-valverde/blob/output/github-contribution-grid-snake.gif)
 
- 
+ <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <!-- GIF -->
 <p align="left">
