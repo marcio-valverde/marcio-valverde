@@ -66,8 +66,7 @@ I'm an enthusiast of electronic music, and I have my favorite playlists in:<a hr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-valverde&theme=radical)](https://github.com/marcio-valverde/github-readme-stats)
 
 ![snake gif](https://github.com/marcio-valverde/marcio-valverde/blob/output/github-contribution-grid-snake.gif)
-
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+ 
 
 <!-- GIF -->
 <p align="left">
