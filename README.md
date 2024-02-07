@@ -33,4 +33,8 @@ You can read my articles on <br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio-valverde&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/marcio-valverde)
+![snake gif](https://github.com/marcio-valverde/marcio-valverde/blob/output/github-contribution-grid-snake.gif)
+
+ 
+
+
